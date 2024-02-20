@@ -3,7 +3,7 @@
 To use it, all you need to know is your API Key and API Secret. You can get them with the help of the official Aevo guide here:   
 https://api-docs.aevo.xyz/reference/api-key-setup-via-ui   
    
-**Checker functions:**
+**Checker functions:**   
 **Account** - Account address   
 **Username** - Account username   
 **Balance** - Current balance   
