@@ -7,4 +7,8 @@ https://api-docs.aevo.xyz/reference/api-key-setup-via-ui
 **Account** - Account address   
 **Username** - Account username   
 **Balance** - Current balance   
-**Total Trading Volume** - Your all time total trading volume 
+**Total Trading Volume** - Your all time total trading volume   
+**Total Transactions** - total amount of transactions  
+**Active Days** - number of unique days  
+**Active Weeks** - number of unique weeks   
+**Active Months** - number of unique months      
