@@ -12,3 +12,6 @@ https://api-docs.aevo.xyz/reference/api-key-setup-via-ui
 **Active Days** - number of unique days  
 **Active Weeks** - number of unique weeks   
 **Active Months** - number of unique months      
+   
+**Example of how it works:**
+![Example](https://github.com/dezer1x/Aevo_Checker/blob/main/Aevo_Checker.png)
