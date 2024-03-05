@@ -4,7 +4,7 @@ from datetime import datetime
 api_key = input("Your API_Key: ")
 api_secret = input("Your API_Secret: ")
 
-limit = 1000
+limit = 50
 
 url = "https://api.aevo.xyz/account"
 headers = {
